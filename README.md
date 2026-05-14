@@ -2,4 +2,4 @@
 
 ## Learn about different parts of your brain!
 
-[Click me]
+[Click me](https://kittyhuang1206.github.io/brain-superpowers/)
